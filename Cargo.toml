@@ -2,6 +2,12 @@
 name = "iroh-pair"
 version = "0.8.0"
 edition = "2021"
+license = "MIT"
+description = "An Iroh Protocol that implements simple pairing between devices and exchange of a small amount of data, such as long-term public key material."
+repository = "https://github.com/mattgeddes/iroh-pair"
+homepage = "https://incomplete.io/projects/iroh-pair"
+keywords = ["iroh", "p2p", "security", "pairing", "kex", "key-exchange"]
+authors = ["Matthew Geddes"]
 
 [dependencies]
 iroh = "1.4"
