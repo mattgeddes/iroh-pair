@@ -1,6 +1,6 @@
 [package]
 name = "iroh-pair"
-version = "0.8.0"
+version = "0.8.3"
 edition = "2021"
 license = "MIT"
 description = "An Iroh Protocol that implements simple pairing between devices and exchange of a small amount of data, such as long-term public key material."
